@@ -16,6 +16,13 @@ html, body{
     overflow-x: hidden;
 }
 
+.berry-locate{
+    text-decoration: none;
+}
+.berry-contact{
+    text-decoration: none;
+}
+
 .italic{
     color: #E6B325;
     font-family: "Great Vibes", cursive;
